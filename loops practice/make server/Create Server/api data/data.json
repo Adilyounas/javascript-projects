@@ -1,0 +1,21 @@
+[
+    {
+        "id":1,
+        "name":"Leanne Graham",
+        "username":"Bret",
+        "email": "Sincere@april.biz",
+        "address":{
+            "street":"kulas light",
+            "suit" : "apt.556",
+            "city" : "Gujranwala",
+            "zipcode": "5654645646"
+        }
+    },
+
+    {
+        "id":2,
+        "name":"Leanne Grahams",
+        "username":"Brets",
+        "email": "Sincere@aprils.biz"
+    }
+]
